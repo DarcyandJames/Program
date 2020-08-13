@@ -1,4 +1,1 @@
-print('Hello this is going to work')
-print('yep')
-print('Hello World')
-print('test')
+print("LETS GO THIS IS GR8 M8")
